@@ -1,3 +1,1 @@
-## Taio
-
-Taïaut!
+## Taïaut!
